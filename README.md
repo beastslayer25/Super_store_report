@@ -14,3 +14,6 @@ Temporal Analysis: Slicers to filter the data by Year and Month to identify sale
 
 Interactive Design: The dashboard is built with a user-friendly interface, allowing stakeholders to easily explore data and make informed decisions.
 This project further enhanced my skills in data modeling, DAX, and creating professional, impactful data visualizations.
+
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/9b32e970-ae3a-4dc1-b6ce-472d6032d954" />
+
